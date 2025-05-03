@@ -7,8 +7,3 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sharjeel-6317b5123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisharjeelofficial@gmail.com) 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=AliSharjeell&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
