@@ -1,10 +1,9 @@
 <div align="center">
 
 CS Undergrad @ FAST'27 <br>
-Full-Stack Web & Mobile Dev <br>
-React, Next.js, TypeScript, JavaScript, Firebase, Supabase, & Flutter <br>
-Building Scalable Apps Fast <br>
-Currently Learning ML/DL<br>
-Skilled in C++ & C<br>
+Full Stack Developer <br>
+Next.js, React, TypeScript, JavaScript, Supabase <br>
+Currently Exploring AI<br>
+Building Pushup League & Redbus Karachi<br>
 
 </div>
