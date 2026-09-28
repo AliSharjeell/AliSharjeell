@@ -2,6 +2,6 @@
 
 CS Undergrad @ FAST'27 <br>
 AI Engineer <br>
-Contact: alisharjeelofficial@gmail.com <br>
+📧: alisharjeelofficial@gmail.com <br>
 
 </div>
